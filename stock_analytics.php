@@ -7,7 +7,7 @@
     $symbol = $_SESSION['symbol']; 
     if( !isset( $_SESSION['outputsize'])) { $_SESSION['outputsize'] = 'compact'; }
     $outputsize = $_SESSION['outputsize'];
-    if( !isset( $_SESSION['apikey'])) { $_SESSION['apikey'] = '3LY8MMK7N4ZEP57D'; }
+    if( !isset( $_SESSION['apikey'])) { $_SESSION['apikey'] = ''; }
     $apikey = $_SESSION['apikey']; 
     if( !isset( $_SESSION['valid_time_series_info'])) { $_SESSION['valid_time_series_info'] = false; }
     $valid_time_series_info = $_SESSION['valid_time_series_info'];          
