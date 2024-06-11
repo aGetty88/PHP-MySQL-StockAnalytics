@@ -12,7 +12,3 @@ Once the user has inputed what they want, the program will spit out formated dat
              get a free api key and enter it on that line.
          I used xampp as my hosting server. There is a username a password in database.php I have left those blank.
              For newer users, if you use xampp create a new user and a password, with all privilages, and enter them into database.php lines 3 and 4.
-            
-************************************************************************************
-
-I do not give anyone permission to use this code for anything except researching or hints on how to help your own project.
